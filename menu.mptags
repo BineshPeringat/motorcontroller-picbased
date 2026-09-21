@@ -1,0 +1,111 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+A1_ON	E:\Projects\Asil\Motor Final\MENU\rtc.h	8;"	v	line:8
+A2_ON	E:\Projects\Asil\Motor Final\MENU\rtc.h	8;"	v	line:8
+A3_ON	E:\Projects\Asil\Motor Final\MENU\rtc.h	8;"	v	line:8
+ALARM_PIN::RC2	E:\Projects\Asil\Motor Final\MENU\rtc.h	15;"	d	line:15
+AM::0	E:\Projects\Asil\Motor Final\MENU\rtc.h	4;"	d	line:4
+BATT::0x05	E:\Projects\Asil\Motor Final\MENU\main.c	22;"	d	line:22	file:
+BELL::0x04	E:\Projects\Asil\Motor Final\MENU\main.c	21;"	d	line:21	file:
+DOWNARW::0x03	E:\Projects\Asil\Motor Final\MENU\main.c	20;"	d	line:20	file:
+DOWN_MASK::0x40	E:\Projects\Asil\Motor Final\MENU\main.c	40;"	d	line:40	file:
+KEY_DOWN::0x07	E:\Projects\Asil\Motor Final\MENU\main.c	31;"	d	line:31	file:
+KEY_LEFT::0x03	E:\Projects\Asil\Motor Final\MENU\main.c	27;"	d	line:27	file:
+KEY_MENU::0x01	E:\Projects\Asil\Motor Final\MENU\main.c	25;"	d	line:25	file:
+KEY_MSTART::0x06	E:\Projects\Asil\Motor Final\MENU\main.c	30;"	d	line:30	file:
+KEY_MSTOP::0x08	E:\Projects\Asil\Motor Final\MENU\main.c	32;"	d	line:32	file:
+KEY_NOKEY::0x0	E:\Projects\Asil\Motor Final\MENU\main.c	24;"	d	line:24	file:
+KEY_RIGHT::0x05	E:\Projects\Asil\Motor Final\MENU\main.c	29;"	d	line:29	file:
+KEY_SET::0x04	E:\Projects\Asil\Motor Final\MENU\main.c	28;"	d	line:28	file:
+KEY_UP::0x02	E:\Projects\Asil\Motor Final\MENU\main.c	26;"	d	line:26	file:
+LCD_DATA::PORTB	E:\Projects\Asil\Motor Final\MENU\lcd.h	13;"	d	line:13
+LCD_EN::RE0	E:\Projects\Asil\Motor Final\MENU\lcd.h	11;"	d	line:11
+LCD_RS::RE2	E:\Projects\Asil\Motor Final\MENU\lcd.h	9;"	d	line:9
+LCD_RW::RE1	E:\Projects\Asil\Motor Final\MENU\lcd.h	10;"	d	line:10
+LCD_STROBE	E:\Projects\Asil\Motor Final\MENU\lcd.h	15;"	f	line:15	signature:()
+LEFTARW::0x00	E:\Projects\Asil\Motor Final\MENU\main.c	17;"	d	line:17	file:
+LEFT_MASK::0x04	E:\Projects\Asil\Motor Final\MENU\main.c	36;"	d	line:36	file:
+LVPDIS	E:\Projects\Asil\Motor Final\MENU\main.c	5;"	v	line:5
+MENU_IDLE::0x0	E:\Projects\Asil\Motor Final\MENU\main.c	44;"	d	line:44	file:
+MENU_MANUAL::0x01	E:\Projects\Asil\Motor Final\MENU\main.c	45;"	d	line:45	file:
+MENU_MASK::0x01	E:\Projects\Asil\Motor Final\MENU\main.c	34;"	d	line:34	file:
+MENU_MODE	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+MENU_OPTIONS::0x02	E:\Projects\Asil\Motor Final\MENU\main.c	46;"	d	line:46	file:
+MENU_SET_A1::0x04	E:\Projects\Asil\Motor Final\MENU\main.c	48;"	d	line:48	file:
+MENU_SET_A2::0x05	E:\Projects\Asil\Motor Final\MENU\main.c	49;"	d	line:49	file:
+MENU_SET_A3::0x06	E:\Projects\Asil\Motor Final\MENU\main.c	50;"	d	line:50	file:
+MENU_SET_TIME::0x03	E:\Projects\Asil\Motor Final\MENU\main.c	47;"	d	line:47	file:
+MOTOR_OFF::0	E:\Projects\Asil\Motor Final\MENU\main.c	52;"	d	line:52	file:
+MOTOR_ON::1	E:\Projects\Asil\Motor Final\MENU\main.c	53;"	d	line:53	file:
+MSTP_MASK::0x80	E:\Projects\Asil\Motor Final\MENU\main.c	41;"	d	line:41	file:
+MSTR_MASK::0x20	E:\Projects\Asil\Motor Final\MENU\main.c	39;"	d	line:39	file:
+PM::1	E:\Projects\Asil\Motor Final\MENU\rtc.h	5;"	d	line:5
+RIGHTARW::0x01	E:\Projects\Asil\Motor Final\MENU\main.c	18;"	d	line:18	file:
+RIGHT_MASK::0x10	E:\Projects\Asil\Motor Final\MENU\main.c	38;"	d	line:38	file:
+SET_MASK::0x08	E:\Projects\Asil\Motor Final\MENU\main.c	37;"	d	line:37	file:
+START_AP::AM	E:\Projects\Asil\Motor Final\MENU\rtc.h	14;"	d	line:14
+START_H::12	E:\Projects\Asil\Motor Final\MENU\rtc.h	11;"	d	line:11
+START_M::0	E:\Projects\Asil\Motor Final\MENU\rtc.h	12;"	d	line:12
+START_S::0	E:\Projects\Asil\Motor Final\MENU\rtc.h	13;"	d	line:13
+TONE1::500	E:\Projects\Asil\Motor Final\MENU\main.c	13;"	d	line:13	file:
+TONE_PIN::RC0	E:\Projects\Asil\Motor Final\MENU\main.c	14;"	d	line:14	file:
+UPARW::0x02	E:\Projects\Asil\Motor Final\MENU\main.c	19;"	d	line:19	file:
+UP_MASK::0x02	E:\Projects\Asil\Motor Final\MENU\main.c	35;"	d	line:35	file:
+_XTAL_FREQ::4000000	E:\Projects\Asil\Motor Final\MENU\lcd.h	6;"	d	line:6
+_XTAL_FREQ::4000000	E:\Projects\Asil\Motor Final\MENU\main.c	9;"	d	line:9	file:
+a1_ampm	E:\Projects\Asil\Motor Final\MENU\rtc.h	38;"	v	line:38
+a1_duration	E:\Projects\Asil\Motor Final\MENU\rtc.h	39;"	v	line:39
+a1_hours	E:\Projects\Asil\Motor Final\MENU\rtc.h	36;"	v	line:36
+a1_minutes	E:\Projects\Asil\Motor Final\MENU\rtc.h	37;"	v	line:37
+a2_ampm	E:\Projects\Asil\Motor Final\MENU\rtc.h	43;"	v	line:43
+a2_duration	E:\Projects\Asil\Motor Final\MENU\rtc.h	44;"	v	line:44
+a2_hours	E:\Projects\Asil\Motor Final\MENU\rtc.h	41;"	v	line:41
+a2_minutes	E:\Projects\Asil\Motor Final\MENU\rtc.h	42;"	v	line:42
+a3_ampm	E:\Projects\Asil\Motor Final\MENU\rtc.h	48;"	v	line:48
+a3_duration	E:\Projects\Asil\Motor Final\MENU\rtc.h	49;"	v	line:49
+a3_hours	E:\Projects\Asil\Motor Final\MENU\rtc.h	46;"	v	line:46
+a3_minutes	E:\Projects\Asil\Motor Final\MENU\rtc.h	47;"	v	line:47
+a_ampm	E:\Projects\Asil\Motor Final\MENU\main.c	156;"	l	line:156
+a_dur	E:\Projects\Asil\Motor Final\MENU\main.c	156;"	l	line:156
+a_hr	E:\Projects\Asil\Motor Final\MENU\main.c	156;"	l	line:156
+a_min	E:\Projects\Asil\Motor Final\MENU\main.c	156;"	l	line:156
+a_on	E:\Projects\Asil\Motor Final\MENU\main.c	156;"	l	line:156
+alarmmenu	E:\Projects\Asil\Motor Final\MENU\main.c	154;"	f	line:154	signature:(char stat, char akey)
+alflag	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+ampm	E:\Projects\Asil\Motor Final\MENU\rtc.h	34;"	v	line:34
+buz	E:\Projects\Asil\Motor Final\MENU\main.c	57;"	v	line:57
+buzz	E:\Projects\Asil\Motor Final\MENU\main.c	60;"	f	line:60	signature:(void)
+cursorpos	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+drawamenu	E:\Projects\Asil\Motor Final\MENU\main.c	107;"	f	line:107	signature:(char stat)
+duration	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+hours	E:\Projects\Asil\Motor Final\MENU\rtc.h	31;"	v	line:31
+init_value	E:\Projects\Asil\Motor Final\MENU\lcd.h	62;"	l	line:62
+isr	E:\Projects\Asil\Motor Final\MENU\main.c	214;"	f	line:214	signature:(void)
+key	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+lcd_change	E:\Projects\Asil\Motor Final\MENU\main.c	57;"	v	line:57
+lcd_clear	E:\Projects\Asil\Motor Final\MENU\lcd.h	31;"	f	line:31	signature:(void)
+lcd_goto	E:\Projects\Asil\Motor Final\MENU\lcd.h	54;"	f	line:54	signature:(unsigned char pos)
+lcd_init	E:\Projects\Asil\Motor Final\MENU\lcd.h	60;"	f	line:60	signature:()
+lcd_putch	E:\Projects\Asil\Motor Final\MENU\lcd.h	47;"	f	line:47	signature:(char c)
+lcd_puts	E:\Projects\Asil\Motor Final\MENU\lcd.h	39;"	f	line:39	signature:(const char * s)
+lcd_write	E:\Projects\Asil\Motor Final\MENU\lcd.h	23;"	f	line:23	signature:(unsigned char c)
+main	E:\Projects\Asil\Motor Final\MENU\main.c	229;"	f	line:229	signature:(void)
+mcurpos	E:\Projects\Asil\Motor Final\MENU\main.c	105;"	v	line:105
+mincntr	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+minutes	E:\Projects\Asil\Motor Final\MENU\rtc.h	32;"	v	line:32
+mkey	E:\Projects\Asil\Motor Final\MENU\main.c	56;"	v	line:56
+mmkey	E:\Projects\Asil\Motor Final\MENU\main.c	105;"	v	line:105
+motor_stat::RC2	E:\Projects\Asil\Motor Final\MENU\main.c	54;"	d	line:54	file:
+newSecond	E:\Projects\Asil\Motor Final\MENU\rtc.h	29;"	v	line:29
+newchars	E:\Projects\Asil\Motor Final\MENU\main.c	257;"	l	line:257	file:
+seconds	E:\Projects\Asil\Motor Final\MENU\rtc.h	33;"	v	line:33
+showtime	E:\Projects\Asil\Motor Final\MENU\main.c	71;"	f	line:71	signature:(char ahours, char aminutes, char aseconds,char aampm, char set)
+tickCounter	E:\Projects\Asil\Motor Final\MENU\rtc.h	28;"	v	line:28
+tone	E:\Projects\Asil\Motor Final\MENU\main.c	62;"	l	line:62
+tset	E:\Projects\Asil\Motor Final\MENU\main.c	105;"	v	line:105
