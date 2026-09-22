@@ -1,4 +1,7 @@
-//menu.h
+/*
+ *	Test for LCD Menu for PIC
+ */
+
 #include <htc.h>
 #include "lcd.h"
 #include "kyb.h"
