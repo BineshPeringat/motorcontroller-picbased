@@ -1,4 +1,7 @@
-//rtc.h
+/*
+ *	Real Time Clock Initialization
+ */
+
 #include <htc.h>
 
 #define AM 0
