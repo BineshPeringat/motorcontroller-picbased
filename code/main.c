@@ -1,7 +1,5 @@
 #include <htc.h>
-
 #include "lcd.h"
-
 #include "rtc.h"
 
 __CONFIG(PROTECT & XT & WDTDIS & PWRTDIS & BORDIS & LVPDIS /*& DUNPROT*/ );
